@@ -12,7 +12,7 @@ public class Testclasse extends Application{public void start(Stage primaryStage
 	StackPane root = new StackPane();
 	root.getChildren().add(b1);
 	Scene scene = new Scene(root, 300, 200);
-	primaryStage.setTitle("HeeloFX buttons");
+	primaryStage.setTitle("Changement sur git");
 	primaryStage.setScene(scene);
 	primaryStage.show();
 	
